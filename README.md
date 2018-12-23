@@ -1,4 +1,4 @@
-# xmpp_chat
+# FlutterMVCParser
 
 A new Flutter project.
 
